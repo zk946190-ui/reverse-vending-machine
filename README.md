@@ -86,7 +86,7 @@ Glass and plastic are separated only by weight, so light glass bottles or heavy 
 - Add a GPS module so an SMS alert for a full machine carries the machine's location
 - Build a mobile app to view points and redeem rewards, with cloud monitoring across machines
 - Solar power, and support for more materials such as paper and e-waste
-- Replace the breadboard wiring with a custom PCB designed in KiCad
+- Replace the breadboard wiring with a custom PCB designed in KiCad.
 
 ## Authors
 Team project. Bibi Zainab – [LinkedIn](https://www.linkedin.com/in/bibi-zainab-dhalayat-929b2b41a) | [GitHub](https://github.com/zk946190-ui)
